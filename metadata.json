@@ -1,0 +1,6 @@
+{
+  "name": "Tham Quan THPT Hàn Thuyên - 3D Campus Tour",
+  "description": "Trải nghiệm khám phá 3D tương tác tại Trường THPT Hàn Thuyên, Phú Nhuận, TP. Hồ Chí Minh với nhiệm vụ học đường và dữ liệu Google Maps Grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
